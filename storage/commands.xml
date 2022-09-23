@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<command>
+		<name>login</name>
+		<description>Login to The Library by entering username and password.
+			Will do nothing if used while already logged in.</description>
+	</command>
+	<command>
+		<name>logout</name>
+		<description>Logout current user. You will be sent back to starting
+			screen.</description>
+	</command>
+	<command>
+		<name>exit</name>
+		<description>Shut down the application.</description>
+	</command>
+	<command>
+		<name>books all</name>
+		<description>Lists all books available in The Library right now.</description>
+	</command>
+	<command>
+		<name>books find &lt;property&gt; &lt;keyword&gt;</name>
+		<description>Search for books by a keyword in a selected property.</description>
+	</command>
+	<command>
+		<name>books sort &lt;property&gt; [asc|desc]</name>
+		<description>Sort books by a specified property. By default results
+			are sorted in ascending order</description>
+	</command>
+	<command>
+		<name>books view &lt;isbn_value&gt;</name>
+		<description>View Details for a book with specific ISBN.</description>
+	</command>
+	<command>
+		<name>books info &lt;isbn_value&gt;</name>
+		<description>Same as books view &lt;isbn_value&gt;.</description>
+	</command>
+	<command>
+		<name>books add</name>
+		<description>Displays a form to enter the new book's details. Only
+			users with admin rights can do this.</description>
+	</command>
+	<command>
+		<name>books remove &lt;isbn_value&gt;</name>
+		<description>Removes an existing book from The Library. Only users
+			with admin rights can do this.</description>
+	</command>
+	<command>
+		<name>users add &lt;username&gt; &lt;password&gt;</name>
+		<description>Adds a new user to The Library. Full credentials are
+			required. Only users with admin rights can do this.</description>
+	</command>
+	<command>
+		<name>users remove &lt;username&gt;</name>
+		<description>Removes an existing user from The Library. Only users
+			with admin rights can do this.</description>
+	</command>
+</commands>

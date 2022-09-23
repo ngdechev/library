@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <author>Colleen Hoover</author>
+        <description>In this "brave and heartbreaking novel that digs its claws into you and doesn't let go, long after you've finished it" (Anna Todd, New York Times bestselling author) from the #1 New York Times	bestselling author of All Your Perfects, a workaholic with a too-good-to-be-true romance can't stop thinking about her first love.
+		</description>
+        <genre>Romance</genre>
+        <isbn>1501110365</isbn>
+        <rating>4.0</rating>
+        <tags/>
+        <title>It Ends with Us: A Novel</title>
+        <year>2021</year>
+    </book>
+    <book>
+        <author>Lucy Score</author>
+        <description>Naomi wasn't just running away from her wedding. She was riding to the rescue of her estranged twin to Knockemout, Virginia, a rough-around-the-edges town where disputes are settled the old-fashioned way... with fists and beer. Usually in that order.</description>
+        <genre>Romantic Comedy</genre>
+        <isbn>194563183X</isbn>
+        <rating>4.31</rating>
+        <tags/>
+        <title>Things We Never Got Over</title>
+        <year>2022</year>
+    </book>
+    <book>
+        <author>Jennifer L. Armentrout</author>
+        <description>Captivating and action-packed, From Blood and Ash is a sexy, addictive, and unexpected fantasy perfect for fans of Sarah J. Maas and Laura Thalassa. </description>
+        <genre>Fantasy</genre>
+        <isbn>1952457017</isbn>
+        <rating>7.0</rating>
+        <tags>
+            <tag>romance</tag>
+            <tag>fantasy</tag>
+            <tag>kingdom</tag>
+            <tag>love</tag>
+        </tags>
+        <title>From Blood and Ash</title>
+        <year>2020</year>
+    </book>
+    <book>
+        <author>Shelle Rose Charvet</author>
+        <description>HOW TO MASTER INFLUENCING LANGUAGE AND GET WHAT YOU WANT, WITHOUT MANIPULATING.\nDo you work and live with people who are hard to convince? Who dismiss ideas before even thinking about them? Do you want to know how to influence people, without being manipulative? Want to find out how people get motivated, make decisions, to be more persuasive with everyone?\nLearn how to use the right words with the right people, and get through the "Communication Wall""</description>
+        <genre>Self-Help</genre>
+        <isbn>1733670327</isbn>
+        <rating>4.8</rating>
+        <tags>
+            <tag>mind</tag>
+            <tag>change</tag>
+            <tag>influence</tag>
+            <tag>patterns</tag>
+            <tag>mastering</tag>
+        </tags>
+        <title>Words That Change Minds: The 14 Patterns for Mastering the Language of Influence</title>
+        <year>2019</year>
+    </book>
+    <book>
+        <author>Sarah J. Maas</author>
+        <description>Though Feyre now has the powers of the High Fae, her heart remains human, but as she navigates the feared Night Court's dark web of politics, passion, and dazzling power, a greater evil looms--and she might be key to stopping it.</description>
+        <genre>Science Fiction</genre>
+        <isbn>140885788X</isbn>
+        <rating>5.0</rating>
+        <tags>
+            <tag>sci-fi</tag>
+            <tag>evil</tag>
+            <tag>politics</tag>
+            <tag>thornes</tag>
+            <tag>roses</tag>
+        </tags>
+        <title>A Court of Mist and Fury (A Court of Thornes and Roses 2)</title>
+        <year>2016</year>
+    </book>
+    <book>
+        <author>Ray Bradbury</author>
+        <description>Guy Montag is a fireman. His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden. Montag never questions the destruction and ruin his actions produce, returning each day to his bland life and wife, Mildred, who spends all day with her television "family". But when he meets an eccentric young neighbor, Clarisse, who introduces him to a past where people didnÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢t live in fear and to a present where one sees the world through the ideas in books instead of the mindless chatter of television, Montag begins to question everything he has ever known.</description>
+        <genre>Classics</genre>
+        <isbn>9781451673319</isbn>
+        <rating>8.9</rating>
+        <tags>
+            <tag>dystopian</tag>
+            <tag>classic</tag>
+            <tag>american</tag>
+        </tags>
+        <title>Fahrenheit 451</title>
+        <year>2021</year>
+    </book>
+    <book>
+        <author>My auth</author>
+        <description>none</description>
+        <genre>Tests</genre>
+        <isbn>12342</isbn>
+        <rating>7.0</rating>
+        <tags>
+            <tag>love</tag>
+        </tags>
+        <title>My book</title>
+        <year>2022</year>
+    </book>
+</books>

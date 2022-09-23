@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <admin>true</admin>
+        <name>admin</name>
+        <password>i&lt;3c++</password>
+    </user>
+    <user>
+        <admin>false</admin>
+        <name>regular-user</name>
+        <password>javaNumber1</password>
+    </user>
+    <user>
+        <admin>false</admin>
+        <name>John</name>
+        <password>john123</password>
+    </user>
+</users>
