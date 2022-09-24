@@ -1,8 +1,5 @@
-# Команда за пускане на .jar файла
-```bash
-java -cp “library.jar;lib/*” library.App
-```
-# Задание - "Библиотека"
+# Проект по Обектно-Ориентирано Програмиране
+## Задание - "Библиотека"
 
 Да се напише програма, реализираща информационна система, която поддържа библиотека. Програмата съхранява и обработва данни за наличните в момента книги във файл.
 
@@ -66,3 +63,36 @@ java -cp “library.jar;lib/*” library.App
 - при въвеждане на паролата на екрана да се изписва  символа * вместо реалния символ 
 - при сортиране на книгите по зададен критерий, да се напише алгоритъм различен от пряка селекция и метода на мехурчето
 - Търсене на книга по зададен критерий да игнорира регистъра на буквите (малки или големи)
+
+## Пускане на програмата (.jar файла)
+```bash
+java -cp“library.jar;lib/* library.App
+```
+
+## Разработка на проекта
+За изработката на проекта са използвани следните езици за програмиране:
+1. Java
+2. XML
+
+И следните библиотеки:
+
+1. JAXB
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='XML' src='https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=FF7700&labelColor=FF7700&color=FF7700'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='JAXB' src='https://img.shields.io/badge/JAXB-100000?style=for-the-badge&logo=JAXB&logoColor=FF7700&labelColor=4FAE50&color=0A647C'/></a>
+
+## Източници 
+1. https://www.geeksforgeeks.org/cocktail-sort/
+2. https://stackoverflow.com/a/45303637
+3. https://stackoverflow.com/a/1051705
+
+## Скрийншоти от изпълнението на програмата
+### Начална страница
+![1.png](https://i.postimg.cc/CxCHTzJN/1.png)
+### Използване на програмата с примерни данни
+![2.png](https://i.postimg.cc/0N8G8PBq/2.png)
+
+![3.png](https://i.postimg.cc/d0423pbZ/3.png)
+
+![4.png](https://i.postimg.cc/FRzjLGvW/4.png)
+
+![5.png](https://i.postimg.cc/RFYwQfVM/5.png)
