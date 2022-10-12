@@ -1,3 +1,9 @@
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/ngdechev/library?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ngdechev/library)
+![java-version](https://img.shields.io/badge/java--version-18-orange)
+
+
 # Проект по Обектно-Ориентирано Програмиране
 ## Задание - "Библиотека"
 
@@ -78,7 +84,11 @@ java -cp“library.jar;lib/* library.App
 
 1. JAXB
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='XML' src='https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=FF7700&labelColor=FF7700&color=FF7700'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='JAXB' src='https://img.shields.io/badge/JAXB-100000?style=for-the-badge&logo=JAXB&logoColor=FF7700&labelColor=4FAE50&color=0A647C'/></a>
+И следните инструменти:
+
+1. IntelliJ IDEA
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='XML' src='https://img.shields.io/badge/XML-100000?style=for-the-badge&logo=XML&logoColor=FF7700&labelColor=FF7700&color=FF7700'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='JAXB' src='https://img.shields.io/badge/JAXB-100000?style=for-the-badge&logo=JAXB&logoColor=FF7700&labelColor=4FAE50&color=0A647C'/></a> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Източници 
 1. https://www.geeksforgeeks.org/cocktail-sort/
